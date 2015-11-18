@@ -1,0 +1,7 @@
+2015-11-04 11:38:15,411 INFO {'fun': <function hello_task at 0x1928de8>, 'args': ('World',), 'kwargs': {}}
+2015-11-04 11:41:57,304 INFO {'fun': <function hello_task at 0x2b8ede8>, 'args': ('World',), 'kwargs': {}}
+2015-11-04 11:43:12,373 INFO {'fun': <function hello_task at 0x2b8ede8>, 'args': ('World',), 'kwargs': {}}
+2015-11-04 11:43:12,373 INFO {'fun': <function hello_task at 0x2b8ede8>, 'args': ('World',), 'kwargs': {}}
+2015-11-04 11:44:43,403 INFO {'fun': <function hello_task at 0x1899de8>, 'args': ('World',), 'kwargs': {}}
+2015-11-04 12:06:10,375 INFO {'fun': <function hello_task at 0x1899de8>, 'args': ('World',), 'kwargs': {}}
+2015-11-04 12:06:10,375 INFO {'fun': <function hello_task at 0x1899de8>, 'args': ('World',), 'kwargs': {}}

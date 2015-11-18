@@ -1,0 +1,2 @@
+2015-11-06 18:02:13,614 - mylogger - INFO - {'fun': <function hello_task at 0x2634d70>, 'args': ('World',), 'kwargs': {}}
+2015-11-09 17:25:15,732 - mylogger - INFO - {'fun': <function hello_task at 0x1d77d70>, 'args': ('World',), 'kwargs': {}}
